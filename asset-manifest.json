@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/todo.git/static/css/main.293c5d59.css",
-    "main.js": "/todo.git/static/js/main.27721d93.js",
-    "index.html": "/todo.git/index.html",
-    "main.293c5d59.css.map": "/todo.git/static/css/main.293c5d59.css.map",
-    "main.27721d93.js.map": "/todo.git/static/js/main.27721d93.js.map"
+    "main.css": "/ArtemLizantan/static/css/main.293c5d59.css",
+    "main.js": "/ArtemLizantan/static/js/main.27721d93.js",
+    "index.html": "/ArtemLizantan/index.html",
+    "main.293c5d59.css.map": "/ArtemLizantan/static/css/main.293c5d59.css.map",
+    "main.27721d93.js.map": "/ArtemLizantan/static/js/main.27721d93.js.map"
   },
   "entrypoints": [
     "static/css/main.293c5d59.css",
